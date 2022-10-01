@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>
+Age Calculator
+</title>
+<body>
+<form>
+Enter your Birth date: <input type="date" name="d1" value=""><br><br>
+Enter Present date: <input type="date" name="d2" value=""><br><br>
+Your Present age is: <input type="text" name="d3" value="">
+</form>
+</body>
+</head>
+</html>
