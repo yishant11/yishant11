@@ -1,0 +1,35 @@
+<html>
+<head>
+<title> PSIT ADMISSION FORM</title>
+<form>
+    Name-<input type="text" value=""><br>
+    Father's Name - <input type="text" value="" </input><br>
+	Mothers's Name-<input type="text" value=""</input><br>
+    Gender- <input type="radio" name="g"
+    value="M" checked>M
+	<input type="radio" name="g"
+    value="F" checked>F
+	<input type="radio" name="g"
+    value="T" checked>T<br>
+    Hobbies 
+	<input type="Checkbox" value="PayFees"    name="hobbies">PayFine<br>
+	city
+    <select>
+        <option> Kanpur
+            <option> Lucknow
+                <option> Agra</select><br>
+ Address
+	<textarea rows="5" cols="20">
+    </textarea>
+    <br>
+    <input type="File" name="fu">
+    <br>
+    <input type="Checkbox" name="cv" checked></input></br>
+    I ACCEPT ALL THE AGGREMENT.
+    <br>
+</form>
+</head>
+</html>
+
+
+
