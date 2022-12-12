@@ -1,0 +1,48 @@
+<html>
+<head>
+<title> Calculator </title>
+<script type="text/Javascript">
+function a1()
+{
+var a=document.getElementById("T1").value
+var b=document.getElementById("T2").value
+var c=eval(a)+eval(b)
+document.getElementById("T3").value=c
+}
+function a2()
+{
+var a=document.getElementById("T1").value
+var b=document.getElementById("T2").value
+var c=eval(a)-eval(b)
+document.getElementById("T3").value=c
+}
+function a3()
+{
+var a=document.getElementById("T1").value
+var b=document.getElementById("T2").value
+var c=eval(a)/eval(b)
+document.getElementById("T3").value=c
+}
+function a4()
+{
+var a=document.getElementById("T1").value
+var b=document.getElementById("T2").value
+var c=parseInt(a)*parseInt(b)
+document.getElementById("T3").value=c
+}
+</script>
+<body>
+<form>
+ENTER THE FIRST NUMBER-  <input type="text" id="T1" value=""><br>
+ENTER THE SECOND NUMBER - <input type="text" id="T2" value=""><br>
+<input type="Button"  value="   +   "onclick="a1()">
+<input type="Button"  value="   -   "onclick="a2()">
+<input type="Button"  value="   /   "onclick="a3()">
+<input type="Button"  value="   *   "onclick="a4()">
+<br>
+RESULT = <input type="text" id="T3" value="">
+</form>
+</body>
+</head>
+</html>
+
