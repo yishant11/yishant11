@@ -1,17 +1,15 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScsn0aySjlvoriaeomSFYEIinWpPXxy9hKvA&s)](https://yishant11.io)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://ishantportfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Ishant Kumar Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvferep9ZLWYVo_8gZwUKbwpnz6jDF6pmuoQ&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yishant11&label=Profile%20views&color=0e75b6&style=flat" alt="yishant11" /> </p>
 
-- 🔭 I’m currently working on **Compiler**
+- 🔭 I’m currently working on **Compiler Project**
 
 - 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://ishantportfolio.netlify.app/](https://ishantportfolio.netlify.app/)
-
-- 💬 Ask me about **Frontend Developer**
 
 - 📫 How to reach me **yishant11@gmail.com**
 
@@ -32,3 +30,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yishant11&show_icons=true&locale=en" alt="yishant11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yishant11&" alt="yishant11" /></p>
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yishant11&show_icons=true&locale=en" alt="yishant11" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yishant11&" alt="yishant11" /></p>
+
+![](https://leetcard.jacoblin.cool/yishant11?ext=heatmap)
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=yishant11)
