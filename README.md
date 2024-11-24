@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScsn0aySjlvoriaeomSFYEIinWpPXxy9hKvA&s width="800")](https://yishant11.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScsn0aySjlvoriaeomSFYEIinWpPXxy9hKvA&s)](https://yishant11.io)
 <h1 align="center">Hi 👋, I'm Ishant Kumar Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvferep9ZLWYVo_8gZwUKbwpnz6jDF6pmuoQ&s">
