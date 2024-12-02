@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://ishantportfolio.netlify.app/](https://ishantportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://reliable-pegasus-9e8b82.netlify.app//](https://reliable-pegasus-9e8b82.netlify.app/)
 
 - 📫 How to reach me **yishant11@gmail.com**
 
