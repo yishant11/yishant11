@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Compiler Project**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://reliable-pegasus-9e8b82.netlify.app//](https://reliable-pegasus-9e8b82.netlify.app/)
 
