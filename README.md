@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://ishantportfolio.netlify.app/)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://portfolio-ochre-nine-86.vercel.app/)
 <h1 align="center">Hi 👋, I'm Ishant Kumar Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvferep9ZLWYVo_8gZwUKbwpnz6jDF6pmuoQ&s">
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [https://reliable-pegasus-9e8b82.netlify.app//](https://reliable-pegasus-9e8b82.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-ochre-nine-86.vercel.app/](https://portfolio-ochre-nine-86.vercel.app/)
 
 - 📫 How to reach me **yishant11@gmail.com**
 
