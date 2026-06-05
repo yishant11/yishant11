@@ -4,7 +4,7 @@
 <h3 align="center">Frontend Developer | MERN Stack Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://portfolio-ochre-nine-86.vercel.app/" target="_blank">
+  <a href="https://my-portfolio-pi-gules-12.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:yishant11@gmail.com">
