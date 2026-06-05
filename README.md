@@ -25,7 +25,7 @@
 
 - 🔭 Currently working on **Compiler Project**
 - 🌱 Learning **Backend Development (Node.js, APIs, System Design)**
-- 👨‍💻 Portfolio: **https://portfolio-ochre-nine-86.vercel.app/**
+- 👨‍💻 Portfolio: **https://my-portfolio-pi-gules-12.vercel.app/**
 - 📫 Email: **yishant11@gmail.com**
 - ⚡ Focused on building scalable apps & clean UI
 
